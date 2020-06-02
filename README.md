@@ -1,4 +1,5 @@
 ## Домашние задания курса OTUS «Разработчик Golang»
+[![Build Status](https://img.shields.io/travis/vlad-iv/go_home_work/master.svg)](https://travis-ci.org/vlad-iv/go_home_work)
 1) [«Hello now»](./hw01_hello_now)
 2) [«Распаковка строки»](./hw02_unpack_string)
 3) [«Частотный анализ»](./hw03_frequency_analysis)
