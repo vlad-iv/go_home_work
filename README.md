@@ -1,6 +1,5 @@
 ## Домашние задания курса OTUS «Разработчик Golang»
-[![Build Status](https://img.shields.io/travis/vlad-iv/go_home_work/master.svg)](https://travis-ci.org/vlad-iv/go_home_work)
-1) [«Hello now»](./hw01_hello_now)
+1) [«Hello, OTUS!»](./hw01_hello_otus)
 2) [«Распаковка строки»](./hw02_unpack_string)
 3) [«Частотный анализ»](./hw03_frequency_analysis)
 4) [«LRU-кэш»](./hw04_lru_cache)
@@ -8,7 +7,7 @@
 6) [«Пайплайн»](./hw06_pipeline_execution)
 7) [«Утилита для копирования файлов»](./hw07_file_copying)
 8) [«Утилита envdir»](./hw08_envdir_tool)
-9) [«Генератор валидаторов»](./hw09_generator_of_validators)
+9) [«Валидатор структур»](./hw09_struct_validator)
 10) [«Оптимизация программы»](./hw10_program_optimization)
 11) [«Клиент TELNET»](./hw11_telnet_client)
 12) [«Заготовка сервиса Календарь»](./hw12_13_14_15_calendar/docs/12_README.md)
@@ -19,6 +18,13 @@
 
 ---
 [Инструкция по сдаче ДЗ](https://github.com/OtusGolang/home_work/wiki#%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B0%D0%BC).
+
+---
+Используемая версия [golangci-lint](https://golangci-lint.run/usage/install/#other-ci): <b>v1.40.0</b>
+```
+$ golangci-lint version
+golangci-lint has version 1.40.0 built from 5c6adb6 on 2021-02-17T09:32:37Z
+```
 
 ---
 Авторы ДЗ:
